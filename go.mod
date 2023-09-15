@@ -1,4 +1,4 @@
-module github.com/carldanley/hexy
+module github.com/carldanley/hexapod
 
 go 1.21.1
 

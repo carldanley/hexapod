@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/carldanley/hexy/pkg/i2c"
+	"github.com/carldanley/hexapod/pkg/i2c"
 )
 
 const (

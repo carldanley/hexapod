@@ -4,8 +4,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/carldanley/hexy/pkg/easings"
-	"github.com/carldanley/hexy/pkg/pca9685"
+	"github.com/carldanley/hexapod/pkg/easings"
+	"github.com/carldanley/hexapod/pkg/pca9685"
 )
 
 const ServoMovementSpeedMS = 18

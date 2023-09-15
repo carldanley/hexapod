@@ -3,7 +3,7 @@ package legs
 import (
 	"time"
 
-	"github.com/carldanley/hexy/pkg/servos"
+	"github.com/carldanley/hexapod/pkg/servos"
 )
 
 type Leg struct {

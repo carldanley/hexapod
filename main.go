@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/carldanley/hexy/pkg/i2c"
-	"github.com/carldanley/hexy/pkg/legs"
-	"github.com/carldanley/hexy/pkg/pca9685"
-	"github.com/carldanley/hexy/pkg/servos"
+	"github.com/carldanley/hexapod/pkg/i2c"
+	"github.com/carldanley/hexapod/pkg/legs"
+	"github.com/carldanley/hexapod/pkg/pca9685"
+	"github.com/carldanley/hexapod/pkg/servos"
 )
 
 var signalChannel chan os.Signal

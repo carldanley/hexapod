@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/carldanley/hexy/pkg/i2c"
-	"github.com/carldanley/hexy/pkg/pca9685"
+	"github.com/carldanley/hexapod/pkg/i2c"
+	"github.com/carldanley/hexapod/pkg/pca9685"
 )
 
 func main() {
